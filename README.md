@@ -1,0 +1,1 @@
+# rshajikamino.com
