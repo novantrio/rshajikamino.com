@@ -67,6 +67,7 @@
                 case "FasilitasOperasi"                        : include_once("pages/listoperasi.php"); break;
                 case "FasilitasOnline"                         : include_once("pages/listonline.php"); break;
                 case "PendaftaranPeriksa"                      : include_once("pages/listperiksa.php"); break;
+                case "Mutu"                                     : include_once("pages/pmkp.php"); break;
                 case "CekPoli"                                 : include_once("pages/listpoli.php"); break;
                 case "CekAsuransi"                             : include_once("pages/listcarabayar.php"); break;
                 case "CekBooking"                              : include_once("pages/listbooking.php"); break;

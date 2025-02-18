@@ -57,8 +57,8 @@
                           <figure class="profile wow fadeInUp" data-wow-delay="1s">
                                <img src="https://raw.githubusercontent.com/novantrio/epasien.rshajikamino.com/refs/heads/master/public_html/images/author-image.jpg" class="img-responsive" alt=""/>
                                <figcaption>
-                                    <h3>dr. Mayahati Nazaya</h3>
-                                    <p>Direktur Utama</p>
+                                    <h3>dr. Naila Firjaniati</h3>
+                                    <p>Direktur</p>
                                </figcaption>
                           </figure>
                      </div>
