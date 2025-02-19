@@ -129,6 +129,7 @@
                      <li><a href='#team' class='smoothScroll'>Dokter Kami</a></li>
                      <li><a href='#news' class='smoothScroll'>Jadwal Praktek</a></li>
                      <li><a href='index.php?act=FasilitasKamar' class='smoothScroll'>Fasilitas & Tarif</a></li>
+                     <li><a href='https://blog.rshajikamino.com' class='smoothScroll'>PMKP & BLOG</a></li>
                      <li class='appointment-btn'><a href='#appointment'>Buat Janji/Booking</a></li>";
             }else if(($aksi=="FasilitasKamar")||($aksi=="FasilitasRadiologi")||($aksi=="FasilitasLaborat")||($aksi=="FasilitasOperasi")||($aksi=="FasilitasOnline")){
                 echo "<li><a href='index.php?act=Home'>Home</a></li>
@@ -137,6 +138,7 @@
                      <li><a href='index.php?act=FasilitasLaborat' class='smoothScroll'>Laborat</a></li>
                      <li><a href='index.php?act=FasilitasOperasi' class='smoothScroll'>Operasi</a></li>
                      <li><a href='index.php?act=FasilitasOnline' class='smoothScroll'>Konsultasi Online</a></li>
+                     <li><a href='https://blog.rshajikamino.com' class='smoothScroll'>PMKP & BLOG</a></li>
                      <li class='appointment-btn'><a href='index.php?act=Home#appointment'>Buat Janji/Booking</a></li>";
             }else{
                 echo "<li><a href='index.php?act=Home#top' class='smoothScroll'>Home</a></li>
@@ -144,6 +146,7 @@
                      <li><a href='index.php?act=Home#team' class='smoothScroll'>Dokter Kami</a></li>
                      <li><a href='index.php?act=Home#news' class='smoothScroll'>Jadwal Praktek</a></li>
                      <li><a href='index.php?act=FasilitasKamar' class='smoothScroll'>Fasilitas & Tarif</a></li>
+                     <li><a href='https://blog.rshajikamino.com' class='smoothScroll'>PMKP & BLOG</a></li>
                      <li class='appointment-btn'><a href='index.php?act=Home#appointment'>Buat Janji/Booking</a></li>";
             }
         }
